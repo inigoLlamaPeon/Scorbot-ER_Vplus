@@ -1,0 +1,14 @@
+../Core/Src/gamepad.c:35:9:numDigits	24	static
+../Core/Src/gamepad.c:47:9:num2Segment	16	static
+../Core/Src/gamepad.c:51:6:emptyArray	24	static
+../Core/Src/gamepad.c:55:6:blankZeros	24	static
+../Core/Src/gamepad.c:66:6:initMatrix	8	static
+../Core/Src/gamepad.c:77:6:num2Array	24	static
+../Core/Src/gamepad.c:89:6:reverse	32	static
+../Core/Src/gamepad.c:102:6:seg2Str	32	static
+../Core/Src/gamepad.c:111:6:sendData	16	static
+../Core/Src/gamepad.c:120:6:sendWord	32	static
+../Core/Src/gamepad.c:132:6:printNumber	24	static
+../Core/Src/gamepad.c:144:9:joyInRange	16	static
+../Core/Src/gamepad.c:152:9:saveMenu	24	static
+../Core/Src/gamepad.c:191:9:loadMenu	24	static
